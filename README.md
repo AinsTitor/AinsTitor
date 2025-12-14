@@ -16,7 +16,7 @@ Beyond coding, I'm a dedicated Graphic Designer and 3D Modeler by passion. This 
 
 🚀 Technical Toolkit
 - Web: HTML, CSS, JavaScript, Frameworks (e.g., React, Vue.js)
-- Backend: Java, Spring Boot
+- Backend: Java, C#, LUA, Python, C++, Spring Boot
 - Tools: Git, Docker, various AI platforms
 - Creative: Blender (3D Modeling), Adobe Suite (Graphics)
 
