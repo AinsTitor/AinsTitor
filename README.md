@@ -7,16 +7,12 @@ Beyond coding, I'm a dedicated Graphic Designer and 3D Modeler by passion. This 
 - 🛠️ Garry's Mod
 - 🦖 ARK: Survival Evolved
 
-🧠 AI & Quality of Life Focus
-- I heavily utilize Artificial Intelligence in my daily workflow. My personal mission is to leverage AI to improve the "Quality of Life" for everyone, even on a small scale, and ultimately benefit our planet.
-- I am an experienced prompt engineer and do not shy away from using AI-assisted coding tools to maximize efficiency and innovation.
-
 ✨ What I'm Working On
 - Currently focused on projects that blend my development skills with AI and 3D modeling. I'm always looking to contribute to open-source initiatives that align with sustainability and workflow optimization.
 
 🚀 Technical Toolkit
 - Web: HTML, CSS, JavaScript, Frameworks (e.g., React, Vue.js)
-- Backend: Java, C#, LUA, Python, C++, Spring Boot
+- Backend: Java, C#, LUA, Python, C++
 - Tools: Git, Docker, various AI platforms
 - Creative: Blender (3D Modeling), Adobe Suite (Graphics)
 
